@@ -23,12 +23,8 @@ a block
 of code
 ```
 
-This is another block of `code`.
-
-```
-hello world
-testing
-```
+Here is a link to [Coursera](https://www.coursera.org/).
+And an image of ![golden gate](https://media.expedia.com/media/content/shared/images/travelguides/San-Francisco-and-vicinity-178305-smallTabletRetina.jpg)
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
